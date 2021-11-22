@@ -86,23 +86,3 @@ defined('EXIT__AUTO_MAX')      OR define('EXIT__AUTO_MAX', 125); // highest auto
 
 defined('CURRENCY_SYMBOL')      OR define('CURRENCY_SYMBOL', "$");
 defined('CURRENCY_CODE')      OR define('CURRENCY_CODE', "USD");
-
-defined('FACEBOOK_APP_ID')      OR define('FACEBOOK_APP_ID', "449813962448032");
-defined('FACEBOOK_APP_SECRET')  OR define('FACEBOOK_APP_SECRET', "ce3ecad15e30c260d55dedb416247610");
-
-defined('GOOGLE_CLIENT_ID')      OR define('GOOGLE_CLIENT_ID', "1048498784914-crm70fbcd5n0dkdmg5pnelsun8rjlmb3.apps.googleusercontent.com");
-defined('GOOGLE_CLIENT_SECRET')  OR define('GOOGLE_CLIENT_SECRET', "8tdwQVaqax_nLAazlz1trGLA");
-
-defined('LINKEDIN_CLIENT_ID')      OR define('LINKEDIN_CLIENT_ID', "81wlxxtgemnpd8");
-defined('LINKEDIN_CLIENT_SECRET')  OR define('LINKEDIN_CLIENT_SECRET', "rk8UDIPn77NUiBDs");
-defined('LINKEDIN_SCOPE')  OR define('LINKEDIN_SCOPE', "r_liteprofile r_emailaddress w_member_social");
-
-defined('PAYPAL_CLIENT_ID')      OR define('PAYPAL_CLIENT_ID', "ARqxxfBq5zwdAcCTbqIa96bd1fgWJzuIWt_oU9VyLeDjJpWGMHcsrn7cgzbmctnX5V6TzgkNMPlGePHi");
-defined('PAYPAL_CLIENT_SECRET')  OR define('PAYPAL_CLIENT_SECRET', "EM_5VHo6WTWsJDXRB0C1FHEON4LEJbGk_KDnWpCOiOZXQuB_i_L5MgWtegJj1layWDDj33ddyDMN2BFq");
-defined('PAYPAL_EMAIL')      OR define('PAYPAL_EMAIL', "adstaronefin@gmail.com");
-
-//defined('STRIPE_KEY')             OR define('STRIPE_KEY', "pk_test_m9SGDWmcSQeBCBLb7c7y41cI007BAmTS9t");
-//defined('STRIPE_SECRET_KEY')      OR define('STRIPE_SECRET_KEY', "sk_test_J7dik0ZLQZu2r37AAxYLBVVI00hbgFuQsI");
-
-defined('STRIPE_KEY')             OR define('STRIPE_KEY', "pk_live_s5yKiMDyJSzVKtzpJI66LeCw00f1Qpz4yv");
-defined('STRIPE_SECRET_KEY')      OR define('STRIPE_SECRET_KEY', "sk_live_6weKOBoFJgNqhFdXiRzSe2lW00P5eafoLX");
